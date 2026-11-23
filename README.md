@@ -36,6 +36,8 @@ The records are publicly available Craigslist vehicle advertisements. They are n
 ```text
 used-vehicle-market-analysis/
 ├── README.md
+├── images/
+│   └── dashboard.png
 └── sql/
     ├── 01_data_profiling.sql
     ├── 02_data_cleaning.sql
