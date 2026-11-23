@@ -5,6 +5,12 @@ This project analyzes Craigslist vehicle advertisements across multiple U.S. sta
 
 The final primary analysis contains **283,169 listings**. Prices are seller asking prices, not verified sale prices.
 
+## Dashboard Preview
+
+![Used Vehicle Market Analysis Dashboard](images/dashboard.png)
+
+[View the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/jake.rackwitz/viz/UsedCarMarketAnalysis_17952220222270/MarketOverview)
+
 ## Business questions
 1. How does vehicle age relate to median asking price?
 2. How does mileage relate to median asking price?
